@@ -38,10 +38,10 @@
 
 ## Где скачать
 
-| Телефон | Откуда                                                                                                                                                                                                    |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Android | [RuStore](https://www.rustore.ru/catalog/app/systems.buff.app) или файл `buff-<версия>.apk` из [последнего выпуска](https://github.com/buffsystems/buff-mobile/releases/latest). Google Play — скоро.     |
-| iPhone  | Файл `buff-v<версия>.ipa` из [последнего выпуска](https://github.com/buffsystems/buff-mobile/releases/latest), ставится через Sideloadly — [инструкция по шагам](docs/ios-install.md). App Store — скоро. |
+| Телефон | Откуда                                                                                                                                                                                                                                                          |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=systems.buff.app), [RuStore](https://www.rustore.ru/catalog/app/systems.buff.app) или файл `buff-<версия>.apk` из [последнего выпуска](https://github.com/buffsystems/buff-mobile/releases/latest). |
+| iPhone  | Файл `buff-v<версия>.ipa` из [последнего выпуска](https://github.com/buffsystems/buff-mobile/releases/latest), ставится через Sideloadly — [инструкция по шагам](docs/ios-install.md). App Store — скоро.                                                       |
 
 Действующие ссылки на магазины — на [buff.systems/mobile](https://buff.systems/mobile). Рядом с каждым файлом в выпуске лежит его контрольная сумма `.sha256`.
 

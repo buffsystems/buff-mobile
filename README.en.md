@@ -38,10 +38,10 @@ This repository holds the app builds and the installation guides. The files of e
 
 ## Where to get it
 
-| Phone   | Where                                                                                                                                                                                                                    |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Android | [RuStore](https://www.rustore.ru/catalog/app/systems.buff.app), or the `buff-<version>.apk` file from the [latest release](https://github.com/buffsystems/buff-mobile/releases/latest). Google Play is coming.           |
-| iPhone  | The `buff-v<version>.ipa` file from the [latest release](https://github.com/buffsystems/buff-mobile/releases/latest), installed with Sideloadly — [step-by-step guide](docs/ios-install.en.md). The App Store is coming. |
+| Phone   | Where                                                                                                                                                                                                                                                                  |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=systems.buff.app), [RuStore](https://www.rustore.ru/catalog/app/systems.buff.app), or the `buff-<version>.apk` file from the [latest release](https://github.com/buffsystems/buff-mobile/releases/latest). |
+| iPhone  | The `buff-v<version>.ipa` file from the [latest release](https://github.com/buffsystems/buff-mobile/releases/latest), installed with Sideloadly — [step-by-step guide](docs/ios-install.en.md). The App Store is coming.                                               |
 
 The current store links are at [buff.systems/en/mobile](https://buff.systems/en/mobile). Every file in a release has its `.sha256` checksum next to it.
 
