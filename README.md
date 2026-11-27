@@ -19,7 +19,6 @@
   <a href="#где-скачать">Где скачать</a> ·
   <a href="#возможности">Возможности</a> ·
   <a href="#как-подключить">Как подключить</a> ·
-  <a href="docs/ios-install.md">Установка на iPhone</a> ·
   <a href="https://buff.systems/docs/mobile">Документация</a> ·
   <a href="README.en.md">English</a>
 </p>
@@ -41,13 +40,11 @@
 | Телефон | Откуда                                                                                                                                                                                                                                                          |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Android | [Google Play](https://play.google.com/store/apps/details?id=systems.buff.app), [RuStore](https://www.rustore.ru/catalog/app/systems.buff.app) или файл `buff-<версия>.apk` из [последнего выпуска](https://github.com/buffsystems/buff-mobile/releases/latest). |
-| iPhone  | Файл `buff-v<версия>.ipa` из [последнего выпуска](https://github.com/buffsystems/buff-mobile/releases/latest), ставится через Sideloadly — [инструкция по шагам](docs/ios-install.md). App Store — скоро.                                                       |
+| iPhone  | App Store — скоро.                                                                                                                                                                                                                                              |
 
 Действующие ссылки на магазины — на [buff.systems/mobile](https://buff.systems/mobile). Рядом с каждым файлом в выпуске лежит его контрольная сумма `.sha256`.
 
 **Установка APK на Android.** Скачайте `buff-<версия>.apk` на телефон и откройте файл. Android попросит разрешить установку из этого источника (браузера или «Файлов») — разрешите и нажмите «Установить». Обновление ставится так же, поверх прежней версии.
-
-**Установка на iPhone.** Пока приложения нет в App Store, файл `.ipa` ставится с компьютера по кабелю: [инструкция по шагам](docs/ios-install.md).
 
 ## Возможности
 

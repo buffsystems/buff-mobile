@@ -19,7 +19,6 @@
   <a href="#where-to-get-it">Where to get it</a> ·
   <a href="#what-it-does">What it does</a> ·
   <a href="#how-to-connect">How to connect</a> ·
-  <a href="docs/ios-install.en.md">Installing on iPhone</a> ·
   <a href="https://buff.systems/en/docs/mobile">Documentation</a> ·
   <a href="README.md">Русский</a>
 </p>
@@ -41,13 +40,11 @@ This repository holds the app builds and the installation guides. The files of e
 | Phone   | Where                                                                                                                                                                                                                                                                  |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Android | [Google Play](https://play.google.com/store/apps/details?id=systems.buff.app), [RuStore](https://www.rustore.ru/catalog/app/systems.buff.app), or the `buff-<version>.apk` file from the [latest release](https://github.com/buffsystems/buff-mobile/releases/latest). |
-| iPhone  | The `buff-v<version>.ipa` file from the [latest release](https://github.com/buffsystems/buff-mobile/releases/latest), installed with Sideloadly — [step-by-step guide](docs/ios-install.en.md). The App Store is coming.                                               |
+| iPhone  | The App Store is coming.                                                                                                                                                                                                                                               |
 
 The current store links are at [buff.systems/en/mobile](https://buff.systems/en/mobile). Every file in a release has its `.sha256` checksum next to it.
 
 **Installing the APK on Android.** Download `buff-<version>.apk` to the phone and open the file. Android asks to allow installs from that source (the browser or Files) — allow it and tap "Install". An update installs the same way, over the previous version.
-
-**Installing on iPhone.** Until the app is in the App Store, the `.ipa` file is installed from a computer over a cable: [step-by-step guide](docs/ios-install.en.md).
 
 ## What it does
 
